@@ -1,7 +1,7 @@
 # 💫 About Me:
 🔭 I’m currently working on: AI-Doc Architect (Python/LLMs) & BioJaldi (Link-in-bio SaaS)<br><br>👯 I’m looking to collaborate on: Scalable Web Tools & AI-integrated Android Applications<br><br>🤝 I’m looking for help with: Cloud Deployment (AWS/Vercel) & Advanced Prompt Engineering<br><br>🌱 I’m currently learning: Next.js for Web Apps & n8n for Backend Automations and much more<br><br> ⚡ Fun fact: I’m obsessed with building high-performance AI tools that solve real-world problems with maximum efficiency and minimal latency!
 
-💬 Ask me about: Kotlin, Python & AI Automation, n8n Workflows, Building Viral Web Tools (SaaS), Android App Development (Kotlin), and Scalable Backend Logic.<br>
+💬 Ask me about: Python & AI Automation, n8n Workflows, Building Viral Web Tools (SaaS), Android App Development (Kotlin), and Scalable Backend Logic & ask more!.<br>
 
 
 # 💻 Tech Stack:
